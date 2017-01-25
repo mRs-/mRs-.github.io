@@ -28,11 +28,12 @@
 
 &lt;h2 id=&#34;implement&#34;&gt;implement&lt;/h2&gt;
 
-&lt;p&gt;The implementation for the requests is pretty easy. If you look into &amp;lsquo;SKStoreReviewController&amp;rsquo; there is only one method to call &amp;lsquo;requestReview()&amp;rsquo; that&amp;rsquo;s it.&lt;/p&gt;
+&lt;p&gt;The implementation for the requests is pretty easy. If you look into &lt;code&gt;SKStoreReviewController&lt;/code&gt; there is only one method to call and tahts &lt;code&gt;requestReview()&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;&amp;rdquo;&amp;rsquo;
-SKStoreReviewController.requestReview()
-&amp;ldquo;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;All we need to do is to call this little bit of code.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SKStoreReviewController.requestReview()
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h1 id=&#34;app-store-answers&#34;&gt;App Store Answers&lt;/h1&gt;
 
