@@ -7,8 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 21:25:24 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2017 09:07:22 +0100</lastBuildDate>
     <atom:link href="https://mrs-.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>iOS 10.3 App Store improvements</title>
+      <link>https://mrs-.github.io/post/iOS-10.3-App-Store-improvements/</link>
+      <pubDate>Wed, 25 Jan 2017 09:07:22 +0100</pubDate>
+      
+      <guid>https://mrs-.github.io/post/iOS-10.3-App-Store-improvements/</guid>
+      <description>
+
+&lt;p&gt;Wow it&amp;rsquo;s really happening, no more custom rating dialogue that are a harm to the user. No more jumping in the App Store. And hopefully no more &lt;strong&gt;password&lt;/strong&gt; typing for a review.&lt;/p&gt;
+
+&lt;p&gt;This could be a huge thing even for small apps, it can speed up getting ratings for your app and maybe it&amp;rsquo;s easier to get as a small company more ratings then ever.&lt;/p&gt;
+
+&lt;h2 id=&#34;ceveats&#34;&gt;ceveats&lt;/h2&gt;
+
+&lt;p&gt;Maybe the UI from Apple is clunky and not easy to get for the customer. We all now that the App Store right now is a horrible in user experience.&lt;/p&gt;
+
+&lt;h2 id=&#34;implement&#34;&gt;implement&lt;/h2&gt;
+
+&lt;p&gt;The implementation for the requests is pretty easy. If you look into &amp;lsquo;SKStoreReviewController&amp;rsquo; there is only one method to call &amp;lsquo;requestReview()&amp;rsquo; that&amp;rsquo;s it.&lt;/p&gt;
+
+&lt;p&gt;&amp;rdquo;&amp;rsquo;
+SKStoreReviewController.requestReview()
+&amp;ldquo;&amp;rsquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;app-store-answers&#34;&gt;App Store Answers&lt;/h1&gt;
+
+&lt;p&gt;And there is more. We have finally the option to react on review. No more finger pointing from the user on you without a proper reaction. Thanks Android for providing this for us.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>hello bloggosphere</title>

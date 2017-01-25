@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Marius Landwehr</title>
-    <link>https://mrs-.github.io/post/index.xml</link>
-    <description>Recent content in Posts on Marius Landwehr</description>
+    <title>Ios on Marius Landwehr</title>
+    <link>https://mrs-.github.io/tags/ios/index.xml</link>
+    <description>Recent content in Ios on Marius Landwehr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Wed, 25 Jan 2017 09:07:22 +0100</lastBuildDate>
-    <atom:link href="https://mrs-.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mrs-.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iOS 10.3 App Store improvements</title>
@@ -37,16 +36,6 @@ SKStoreReviewController.requestReview()
 &lt;h1 id=&#34;app-store-answers&#34;&gt;App Store Answers&lt;/h1&gt;
 
 &lt;p&gt;And there is more. We have finally the option to react on review. No more finger pointing from the user on you without a proper reaction. Thanks Android for providing this for us.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>hello bloggosphere</title>
-      <link>https://mrs-.github.io/post/hello-bloggosphere/</link>
-      <pubDate>Mon, 23 Jan 2017 21:25:24 +0100</pubDate>
-      
-      <guid>https://mrs-.github.io/post/hello-bloggosphere/</guid>
-      <description>&lt;p&gt;Wow, I did it! I created my forst post and more will follow. You are thrilled about more content from me? No problem, it&amp;rsquo;s now up and running!&lt;/p&gt;
 </description>
     </item>
     
